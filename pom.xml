@@ -11,6 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>PROJECT</artifactId>
 	<version>1.0</version>
+	 <packaging>war</packaging>
 	<name>PROJECT</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
