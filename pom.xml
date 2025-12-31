@@ -89,6 +89,8 @@
 	</dependencies>
 
 	<build>
+				    <finalName>CRM</finalName>
+
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
